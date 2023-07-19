@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logobumpin.png">
+<SubTexture name="logobumpin idle0000" x="0" y="567" width="813" height="525" frameX="-43" frameY="-121" frameWidth="992" frameHeight="668" />
+<SubTexture name="logobumpin idle0001" x="874" y="0" width="848" height="549" frameX="-26" frameY="-109" frameWidth="992" frameHeight="668" />
+<SubTexture name="logobumpin idle0002" x="0" y="0" width="874" height="567" frameX="-13" frameY="-100" frameWidth="992" frameHeight="668" />
+<SubTexture name="logobumpin idle0003" x="874" y="0" width="848" height="549" frameX="-26" frameY="-109" frameWidth="992" frameHeight="668" />
+</TextureAtlas>
